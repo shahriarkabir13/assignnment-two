@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* font-family: "Open Sans"; */
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+background-color: bisque;
+}
+.menu{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+   
+    
+}
+.main{
+    background-color: bisque;
+    }
+.origin{
+text-align: center;
+margin-top: 60px;
+}
+.fonts{
+    font-size: 200%;
+}
+
+.second{
+ background-color: coral;
+ border-radius: 15px;
+ padding: 18px;
+ font-size: larger;
+ color: white;
+}
+
+.second-main{
+background-color: bisque;
+
+
+}
+.image{
+align-items: center;
+margin-top: 60px;
+margin-left: 320px;
+}
+/* 3rd section  */
+
+.skill-tiltle{
+font-weight: 700;
+font-size: 20px;
+}
+.skill-description{
+color: gray;
+}
+.skill{
+    box-shadow: 0 4px 8px 0 rgba(235, 228, 228, 0.2), 0 6px 20px 0 rgba(148, 148, 148, 0.19);
+    padding: 5px;
+}
+.socials{
+display: flex;
+gap: 10px;
+justify-content: space-evenly;
+list-style: none;
+}
+
+#above-footer{
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.above-footer{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+}
+.footer-text{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    
+}
+
+#footer-title{
+    font-size:50px;
+    
+}
+.END{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+#parent{
+    display:flex;
+    justify-content: center;
+}
+
+
+.img{
+  margin-top: 10px;
+}
+#grid{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+    
+}
+.feature{
+ 
+  text-align: center;
+  Width:537px;
+  height: 78px;
+  top: 1739px;
+  left: 1082px;
+  margin-left: 100px;
+
+
+}
+.third-main{
+    display: flex;
+ 
+    justify-content: center;
+}
+.fact{
+    border: 1px solid orange;
+    padding: 20px;
+    text-align: center;
+}
+.fontss{
+    color: darkgray;
+    font-size: 60px;
+}
+.fontsss{
+    color: rgb(255, 146, 106);
+    font-size: 60px;
+    
+}
+.fontssss{
+    font-size: 60px;
+}
+.important{
+    font-size: 40px;
+}
+.color{
+    color: gray;
+}
+.third-title{
+    font-size:40px;
+    color: black;
+}
+/* <button class="simple">10+ Year <br> Experience</button>*/
+.simple{
+    background-color: coral;
+ border-radius: 15px;
+ padding: 28px;
+ color: white;
+}
